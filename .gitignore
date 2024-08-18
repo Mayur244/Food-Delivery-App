@@ -1,0 +1,12 @@
+# Node modules
+/node_modules
+
+#build folder
+/build
+
+
+# Parcel cache
+/.parcel-cache
+
+# Build output
+/dist
